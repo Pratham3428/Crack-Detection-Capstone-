@@ -93,13 +93,15 @@ Sample counts:
 * Val  : **80** images
 * Test : **42** images
 
+Trained on 3000+ dataset 
+
 You may point to your own dataset by editing the `data.yaml` file or passing the path on the command line.
 
 ---
 
 ## Training
 
-The road-crack model shipped here was trained with:
+## The road-crack model shipped here was trained with:
 
 ```bash
 yolo detect train \
