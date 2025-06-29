@@ -1,8 +1,3 @@
-# --------------------------------------------------------
-# Based on yolov10
-# https://github.com/THU-MIG/yolov10/app.py
-# --------------------------------------------------------'
-
 import gradio as gr
 import cv2
 import tempfile
